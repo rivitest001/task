@@ -11,15 +11,7 @@
         {
             "id": 3, 
             "activity": "Explore Petra"
-        },
-        {
-            "id": 4, 
-            "activity": "Visit the Colosseum"
-        },
-        {
-            "id": 5, 
-            "activity": "Walk to Chichen Itza"
         }
     ]
-    "profile": { "name": "typicode" }
+    "profile" : { "name": "typicode" }
 }
