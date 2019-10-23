@@ -2,9 +2,7 @@
     "posts" : [
         {"1" : "Get stunned by the Great Pyramid of Giza"},
         {"2" : "Walk along the Great Wall of China"},
-        {"3" : "Explore Petra"},
-        {"4" : "Visit the Colosseum"},
-        {"5" : "Walk to Chichen Itza"},
+        {"3" : "Explore Petra"}
     ],
     "profile": {
         "name": "typicode"
